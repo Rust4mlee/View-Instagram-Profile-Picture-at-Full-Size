@@ -2,7 +2,7 @@
 #~ Coder : Cavid Rustamli
 #~ Instagram : @rust4mlee
 
-import requests,os,re,webbrowser
+import requests,webbrowser,os,re
 
 if os.name == "nt":
 	os.system("cls")
